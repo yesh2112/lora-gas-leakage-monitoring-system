@@ -77,7 +77,6 @@ Successfully developed and tested a wireless gas monitoring prototype integratin
 
 ## 10. Acknowledgement
 
-We sincerely thank our project guide and department faculty for their guidance and support throughout the development of this project.
-Electronics and Communication Engineering Graduate
+We sincerely thank our project guide, Mr. N. Vinod Kumar, and the faculty of the Electronics and Communication Engineering Department at Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET) for their valuable guidance and support throughout the development of this project.
 
 GitHub: https://github.com/yesh2112
