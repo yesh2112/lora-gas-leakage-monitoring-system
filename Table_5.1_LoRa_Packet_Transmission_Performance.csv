@@ -1,5 +1,0 @@
-Test,Packets Sent,Packets Received,Packet Loss,Success Rate (%)
-Test 1,10,10,0,100.0
-Test 2,20,19,1,95.0
-Test 3,30,29,1,96.7
-Test 4,40,39,1,97.5
