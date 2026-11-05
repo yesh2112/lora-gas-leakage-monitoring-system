@@ -1,1 +1,7 @@
+RESULTS SUMMARY — values transcribed/calculated from Table 5.1 in the project report
 
+Total packets sent: 100
+Total packets received: 97
+Total packets lost: 3
+Overall delivery/success rate: 97.00%
+Overall packet-loss rate: 3.00%
