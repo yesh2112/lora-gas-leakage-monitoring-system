@@ -1,6 +1,0 @@
-Parameter,Value,Description
-Frequency,433 MHz,Operating frequency
-Bandwidth,125 kHz,Data transmission rate
-Spreading Factor,SF7,Controls range & speed
-Coding Rate,4/5,Error correction
-Transmission Power,17 dBm,Signal strength
